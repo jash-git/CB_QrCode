@@ -1,0 +1,1 @@
+純C/C++ QrCode 產生器 [CB_QrCode]

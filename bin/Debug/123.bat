@@ -1,0 +1,1 @@
+CB_QrCode.exe "https://www.google.com/url?q=http://jashliao.pixnet.net/blog/post/206306659-php-%25E9%2599%2590%25E5%25AE%259Aip&sa=U&ved=0ahUKEwiYk8LulpLNAhXLq5QKHR2CAA4QFggUMAA&usg=AFQjCNGBNvotVlBQlCv-8AqaMNIwFxcTtw" 123.bmp
